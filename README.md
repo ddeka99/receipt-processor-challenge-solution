@@ -10,7 +10,7 @@ docker build -t receipt-processor .
 ```
 To run the image and start the container
 ```
-docker run -p 3000:3000 receipt-processor
+docker run -p 3000:3000 -d receipt-processor
 ```
 
 # About the challenge
