@@ -1,6 +1,6 @@
 # Intro
 
-This repository serves as a solution to Fetch Rewards coding challenge as described [here](https://github.com/ddeka99/receipt-processor-challenge-solution)
+This repository serves as a solution to Fetch Rewards coding challenge as described [here](https://github.com/fetch-rewards/receipt-processor-challenge).
 
 To run said solution, you need to have Docker installed.
 
